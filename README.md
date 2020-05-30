@@ -20,7 +20,7 @@ source <your-env>/bin/activate
 ```
 pip install virtualenv
 virtualenv <your-env>
-<your-env>\Scripts\activate
+source<your-env>\Scripts\activate
 <your-env>\Scripts\pip.exe install google-cloud-firestore
 ```
 
